@@ -1,0 +1,8 @@
+*.asv
+*.m~
+*.fig
+*.mat
+*.csv
+.DS_Store
+Thumbs.db
+.vscode/
